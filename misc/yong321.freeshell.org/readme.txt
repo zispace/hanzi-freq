@@ -1,6 +1,6 @@
 ## 说明
 
-黄勇 搜索引擎字频表 
+黄勇 搜索引擎字频表
 
 - http://yong321.freeshell.org/misc/ChineseCharFrequency.html
 - http://yong321.freeshell.org/misc/ChineseCharWesternWordFrequency.html

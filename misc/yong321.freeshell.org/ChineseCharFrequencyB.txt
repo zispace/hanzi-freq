@@ -1,6 +1,7 @@
-﻿常用汉字使用频率表(Baidu)
-(C) 2009 黄勇
-详情请见 http://yong321.freeshell.org/misc/ChineseCharFrequency.html
+﻿# 常用汉字使用频率表(Baidu)
+# (C) 2009 黄勇
+# 详情请见 http://yong321.freeshell.org/misc/ChineseCharFrequency.html
+
 一	100000000
 在	100000000
 者	100000000

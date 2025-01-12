@@ -8,7 +8,7 @@
 - [x] book-ebook-details.json: <https://huggingface.co/datasets/shjwudp/shu/> 收集中文书籍总计14363本
 - [x] book-weread-details.json: <https://github.com/able8/weread-hot-booklists> 微信读书热门收藏书单（主要是目录、前言等，缺正文）
 - [x] guwen-v1-details.json: <https://github.com/NiuTrans/Classical-Modern> 文言文（古文）- 现代文平行语料（仅使用了“古文原文”目录）
-- [x] guwen-v2a-details.json: <https://github.com/mahavivo/scripta-sinica> 汉语古典文本数据库，原始来源[殆知阁](<http://www.daizhige.org/>) 
+- [x] guwen-v2a-details.json: <https://github.com/mahavivo/scripta-sinica> 汉语古典文本数据库，原始来源[殆知阁](<http://www.daizhige.org/>)
 - [x] guwen-v2b-details.json: <https://github.com/garychowcmu/daizhigev20> 殆知阁古代文献
 - [x] medical-details.json: <https://huggingface.co/datasets/shibing624/medical> 中文医疗数据集
 - [x] news-nlpir-details.json: <http://www.nlpir.org/wordpress/2017/07/13/nlpir新闻语料库-2400万字/> nlpir新闻语料库-2400万字 `NLPIR-news-corpus.rar`
