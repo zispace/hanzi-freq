@@ -5,6 +5,7 @@
 - https://github.com/sxei/pinyinjs/blob/master/other/常用6763个汉字使用频率表.txt
 - https://www.ccgxk.com/codeother/347.html
 - http://blog.sina.com.cn/s/blog_5e2ffb490100dnfg.html
+- flypy.com/布老虎-6763字频.txt
 
 备注：其中有的数据中“市”重复了2次，缺少“省”。
 data.txt中“岁绝膜”各重复两次，缺少“尔综著”三字（对齐GB2312）。
